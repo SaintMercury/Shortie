@@ -1,0 +1,7 @@
+*.exe
+*.ini
+*.rvproj2
+*.rvdata2
+Data
+System
+Scripts/*.rb

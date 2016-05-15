@@ -1,0 +1,3 @@
+=begin
+  Example script
+=end
